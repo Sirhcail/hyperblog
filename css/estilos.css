@@ -5,7 +5,7 @@ body
     font-family:Arial;
     font-size:16px;
     margin:0;
-    padding:0
+    padding:0;
 }
 
 #cabecera
@@ -35,19 +35,10 @@ body
     margin:0 auto;
 }
 
-/*
-#container h1
+#footer
 {
-    font-size: 20px;
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
-
-
-    
-#container h1
-{
-    font-size:20px
-}
-
-#post{
-    padding:1em
-}*/
